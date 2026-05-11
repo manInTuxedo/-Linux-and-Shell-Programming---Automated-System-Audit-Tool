@@ -9,7 +9,7 @@
 REPORT="audit_report_$(date +%Y%m%d_%H%M%S).md"
 
 # Put your Groq API key here (get one free at console.groq.com)
-GROQ_API_KEY="your_groq_api_key_here"
+GROQ_API_KEY="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"
 
 # ── Terminal Colors ───────────────────────────
 # These make the output easier to read in the terminal
